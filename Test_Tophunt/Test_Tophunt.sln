@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Tophunt.CSharp", "Test_Tophunt.CSharp.csproj", "{BFE0BFDD-E1BE-0209-30B5-769F9E5465FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE0BFDD-E1BE-0209-30B5-769F9E5465FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE0BFDD-E1BE-0209-30B5-769F9E5465FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE0BFDD-E1BE-0209-30B5-769F9E5465FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE0BFDD-E1BE-0209-30B5-769F9E5465FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

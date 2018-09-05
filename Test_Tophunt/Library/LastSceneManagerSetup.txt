@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/vampiric_monster_bat/scenes/scene_assets_vampiric_bat.unity
+  isLoaded: 1
+  isActive: 1
